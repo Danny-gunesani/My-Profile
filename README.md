@@ -1,6 +1,4 @@
-![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOrSzlBUNtNTA4vnr9nBGoz3WhCE_3fOHVIQ&s)
-
-
+[![MasterHead](https://drive.google.com/file/d/1PO53skRk6QHuRldzspoeNhczDXayUyMf/view)]
 <h1 align="center">Hi 👋, I'm Doulat</h1>  
 <h3 align="center">A passionate Python developer</h3>  
 
